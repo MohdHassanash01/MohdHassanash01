@@ -2,7 +2,11 @@
 <h3 align="center">Full Stack Developer | MERN Stack | AWS | Docker | TypeScript</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;AWS+%7C+Docker+%7C+Redis;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=600&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Frontend+Developer;Backend+Developer;TypeScript+Developer;DevOps+Engineer;AWS+%7C+Docker+%7C+Redis;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="./gitBanner.gif" width="900" alt="Git Banner"/>
 </p>
 
 ---
@@ -35,41 +39,7 @@ A productivity application where users can save YouTube videos and Tweets, organ
 - Docker
 - AWS ECS
 
-🔗 Live Demo: https://ashraf-wcso.onrender.com/
-
----
-
-### 🐶 SecondChance - Pet Adoption Platform
-
-AI-powered pet adoption platform with intelligent pet recommendations.
-
-**Tech Stack**
-
-- React
-- Express
-- MongoDB
-- Gemini AI
-- Cloudinary
-
----
-
-### 💻 Real-Time Code Editor
-
-Collaborative code editor supporting multiple users.
-
-**Tech Stack**
-
-- React
-- Node.js
-- Socket.IO
-- Docker
-- AWS
-
----
-
-### 💳 Paytm Clone
-
-A full-stack payment application with authentication and money transfer features.
+🔗 Live Demo: https://secondbrain.hassanashraf.xyz/
 
 ---
 
@@ -139,7 +109,7 @@ A full-stack payment application with authentication and money transfer features
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<a href="https://www.linkedin.com/in/ashraf-hassan-0383b2395/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
@@ -153,7 +123,7 @@ A full-stack payment application with authentication and money transfer features
 
 ## 📄 Resume
 
-📥 **[Download Resume](YOUR_GOOGLE_DRIVE_RESUME_LINK)**
+📥 **[Download Resume](https://drive.google.com/file/d/15m7ZaIn0mrmIoRTQUjT-_6b2XAPZL9zs/view?usp=sharing)**
 
 ---
 
